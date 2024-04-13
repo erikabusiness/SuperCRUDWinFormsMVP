@@ -1,0 +1,12 @@
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.csproj.AssemblyReference.cache
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.Properties.Resources.resources
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.Views.PetView.resources
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.csproj.GenerateResource.cache
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\bin\Debug\SuperCRUDWinFormsMVP.exe
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\bin\Debug\SuperCRUDWinFormsMVP.pdb
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRU.0FC9528B.Up2Date
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.exe
+C:\Users\erika\source\repos\SuperCRUDWinFormsMVP\obj\Debug\SuperCRUDWinFormsMVP.pdb
